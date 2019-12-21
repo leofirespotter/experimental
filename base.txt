@@ -1,1 +1,10 @@
 This is some code that will be used later on in other commits
+
+// Adding some comments here
+public void doSomething() {
+	doSomethingElse()
+}
+
+public void doSomethingElse() {
+
+}
